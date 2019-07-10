@@ -4,7 +4,7 @@ Editado en July, 2019.
 
 Laboratorio de innovación social que busca crear soluciones a través de la tecnología, con la finalidad de desarrollar habilidades digitales en las ciudades del norte del Perú.
 
-# Table de Contenidos
+# Tabla de Contenidos
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
