@@ -8,14 +8,11 @@ Laboratorio de innovación social que busca crear soluciones a través de la tec
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-[Misión y Visión](#misión-y-visión)
-[Objetivos](#objetivos)
-[Objetivos de Desarrollo Sostenible](#objetivos-de-desarrollo-sostenible)
-[Actividades Claves](#actividades-claves)
-[Focos de Acción](#focos-de-acción)
-
-
-
+- [Misión y Visión](#misión-y-visión)
+- [Objetivos](#objetivos)
+- [Objetivos de Desarrollo Sostenible](#objetivos-de-desarrollo-sostenible)
+- [Actividades Claves](#actividades-claves)
+- [Focos de Acción](#focos-de-acción)
 
 
 # Misión y Visión
