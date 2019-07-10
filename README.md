@@ -1,1 +1,2 @@
-# Example Site
+# NaimLab: Social Innovation Lab
+
