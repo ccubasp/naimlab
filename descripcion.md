@@ -1,16 +1,20 @@
 # NaimLab: Laboratorio de Innovación Social
 # Descripción
+July, 2019.
 
 # Table de Contenidos
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-[Context and background information](#context-and-background-information)
+[Misión y Visión](#misión-y-visión)
 
 
-# Context and background information
+# Misión y Visión
 
-## A community-led process to revitalize and grow the CC network
+Misión:
+Crear espacios abiertos para fomentar la creatividad, la innovación, la investigación y desarrollo de la tecnología en el norte de Perú.
 
-Creative Commons was established in 2001 as a US-based charity. It developed a set of licences built upon the copyright system, to allow both content creators and users a standardized, easy, and free legal way of sharing and using creative content in the digital context.
+Visión:
+Convertirnos en una comunidad sostenible e inteligente haciendo buen uso de las tecnologías.
+
 
